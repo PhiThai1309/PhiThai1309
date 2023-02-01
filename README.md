@@ -32,7 +32,7 @@
 
 <h3 align="left">GitHub Stats: </h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" />
-  <img src="https://github-readme-stats.vercel.app/api?username=phithai1309&show_icons=true&locale=en" alt="phithai1309"
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phithai1309&show_icons=true&locale=en" alt="phithai1309"
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phithai1309&" alt="phithai1309" /></p>
