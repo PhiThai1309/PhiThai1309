@@ -19,13 +19,6 @@
   </a>
 </p>
 
-<h3 align="left">Most used languages: </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,swift,html,css,js,firebase,spring,sqlite&theme=light" />
-  </a>
-</p>
-
 <h3 align="left">Most used tools: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
