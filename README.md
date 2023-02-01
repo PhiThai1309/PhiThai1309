@@ -3,11 +3,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=phithai1309&label=Profile%20views&color=0e75b6&style=flat" alt="phithai1309" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phithai1309&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15" alt="phithai1309" /></a> </p>
-
 - 🌱 I’m currently learning **React JS, Angular**
 
 - 📫 How to reach me **thaimanhphi@gmail.com**
+
+<h3 align="left">GitHub's Achivement:</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phithai1309&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15" alt="phithai1309" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
