@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
     </a>
   <a href="https://www.leetcode.com/phimanhtmp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phimanhtmp" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phimanhtmp" />
   </a>
 </p>
 
