@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/phi thai manh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phi thai manh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/phi-thai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phi-thai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/phimanhtmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phimanhtmp" height="30" width="40" /></a>
 </p>
 
@@ -23,11 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phithai1309&show_icons=true&locale=en" alt="phithai1309" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phithai1309&" alt="phithai1309" /></p>
-
-
-<!---
-PhiThai1309/PhiThai1309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 📫 How to reach me @facebook Manh TPM
---->
