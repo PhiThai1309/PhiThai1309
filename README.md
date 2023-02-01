@@ -14,8 +14,12 @@
   <a href="https://linkedin.com/in/phi-thai" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
     </a>
-  <a href="https://www.leetcode.com/phimanhtmp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phimanhtmp" />
+</p>
+
+<h3 align="left">Most used languages: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,swift,html,css,js,firebase,spring,sqlite&theme=light" />
   </a>
 </p>
 
