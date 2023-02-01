@@ -21,7 +21,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,swift,html,css,js,firebase,spring,sqlite&theme=light" />
   </a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" />
 </p>
 
 <h3 align="left">Most used tools: </h3>
