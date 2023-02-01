@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/phi-thai" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phi-thai" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
     </a>
   <a href="https://www.leetcode.com/phimanhtmp" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phimanhtmp" height="30" width="40" />
@@ -22,18 +22,18 @@
 <h3 align="left">Most used languages: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,swift,html,css,js,firebase,spring,sqlite" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,swift,html,css,js,firebase,spring,sqlite&theme=light" />
   </a>
 </p>
 
 <h3 align="left">Most used tools: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,xd" />
+    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,xd&theme=light" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phithai1309&show_icons=true&locale=en" alt="phithai1309" /></p>
 
