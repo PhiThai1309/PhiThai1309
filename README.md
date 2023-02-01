@@ -21,7 +21,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,swift,html,css,js,firebase,spring,sqlite&theme=light" />
   </a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" />
 </p>
 
 <h3 align="left">Most used tools: </h3>
@@ -32,5 +31,8 @@
 </p>
 
 <h3 align="left">GitHub Stats: </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phithai1309&show_icons=true&locale=en" alt="phithai1309" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phithai1309&show_icons=true&locale=en&layout=compact" alt="phithai1309" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phithai1309&show_icons=true&locale=en" alt="phithai1309"
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phithai1309&" alt="phithai1309" /></p>
