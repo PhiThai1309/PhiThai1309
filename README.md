@@ -10,15 +10,26 @@
 - 📫 How to reach me **thaimanhphi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/phi-thai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phi-thai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/phimanhtmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phimanhtmp" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/phi-thai" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phi-thai" height="30" width="40" />
+    </a>
+  <a href="https://www.leetcode.com/phimanhtmp" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="phimanhtmp" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Most used languages: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,swift,html,css,js,firebase,spring,sqlite" />
+  </a>
+</p>
+
+<h3 align="left">Most used tools: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,idea,vscode,xd" />
   </a>
 </p>
 
