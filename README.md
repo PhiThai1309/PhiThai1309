@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phi Thai</h1>
 <h3 align="center">A creative developer</h3>
 
-- 🌱 I’m currently learning **UIKit and Swift**
+- 🌱 I’m currently learning **NextJS and NodeJS**
 
 - 📫 How to reach me **thaimanhphi@gmail.com**
 
